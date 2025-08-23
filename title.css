@@ -1,0 +1,23 @@
+.title h1{
+    position:absolute;
+    left: 50px;
+    top:0;
+    line-height:80px;
+}
+.title li{
+    display: inline;
+    margin-right: 4vw;
+    top:0;
+    line-height:75px;
+}
+.title ul{
+    position:absolute;
+    right:5vw
+}
+.title a{
+    color: blue;
+    text-decoration:none;
+}
+.titlea:hover{
+    text-decoration:underline;
+}
