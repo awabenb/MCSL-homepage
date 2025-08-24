@@ -1,6 +1,6 @@
 .title h1{
     position:absolute;
-    left: 50px;
+    left: 5vm;
     top:0;
     line-height:80px;
 }
@@ -20,4 +20,5 @@
 }
 .titlea:hover{
     text-decoration:underline;
+
 }
