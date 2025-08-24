@@ -2,13 +2,13 @@
     position:absolute;
     left: 30px;
     top:0;
-    line-height:90px;
+    line-height: 90px;
 }
 .title li{
     display: inline;
     margin-right: 4vw;
     top:0;
-    line-height:50px;
+    line-height:75px;
 }
 .title ul{
     position:absolute;
@@ -20,11 +20,4 @@
 }
 .titlea:hover{
     text-decoration:underline;
-
 }
-
-
-
-
-
-
