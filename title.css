@@ -1,8 +1,8 @@
 .title h3{
     position:absolute;
-    left: 15vm;
+    left: 30px;
     top:0;
-    line-height:80px;
+    line-height:90px;
 }
 .title li{
     display: inline;
@@ -22,6 +22,7 @@
     text-decoration:underline;
 
 }
+
 
 
 
